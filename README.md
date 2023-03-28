@@ -8,9 +8,9 @@
   ```
 
   4.Install the TypeScript compiler as a development dependency by running the following command:
-    ```
-      npm install typescript --save-dev
-    ```
+  ```
+    npm install typescript --save-dev
+  ```
 
   5.Create a new `tsconfig.json` file in your project directory. This file will contain the configuration settings for the TypeScript compiler. Here's a basic example of what the `tsconfig.json` file could look like:
     ```
