@@ -1,0 +1,23 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "1. Install Node.js and npm on your computer, if they are not already installed.   2. Create a new project directory and navigate to it using your terminal or command prompt.   3. Initialize a new npm package by running the following command:     ```       npm init -y     ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huantran123/typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huantran123/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/huantran123/typescript-learning#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
