@@ -4,7 +4,7 @@
   2.Create a new project directory and navigate to it using your terminal or command prompt.
   3.Initialize a new npm package by running the following command:
   ```
-  npm init -y
+    npm init -y
   ```
 
   4.Install the TypeScript compiler as a development dependency by running the following command:
